@@ -15,9 +15,6 @@ Have you ever wondered how mnemonics are generated or how one mnemonic can deriv
 
 ---
 
-If you encounter any issues or have questions, feel free to reach out. 😊
----
-
 ## Project Structure
 
 - **english.txt**  
