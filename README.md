@@ -2,7 +2,6 @@
 
 Welcome to the **Handson-Mnemonic** project! This project provides an interactive environment to work through exercises using the `mnemonic.ipynb` and `hdwallet.ipynb` Jupyter Notebooks. Follow the steps below to set up your environment and start your hands-on practice.
 
-
 ## Why this project?
 
 🔐✨ **Understanding Mnemonics and HD Wallets**  
@@ -46,10 +45,13 @@ During installation, make sure to check the option **"Add Python to PATH"**.
 1. Activate the virtual environment:
 
    ```bash
-   # On Windows
+   # 1. Create Virtual Environment
+   python3 -m venv ./venv
+
+   # 2-1. On Windows
    venv\Scripts\activate
-   
-   # On macOS/Linux
+
+   # 2-2. On macOS/Linux
    source venv/bin/activate
    ```
 
