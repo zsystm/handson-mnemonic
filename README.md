@@ -74,6 +74,21 @@ During installation, make sure to check the option **"Add Python to PATH"**.
 
 ---
 
+## License
+This project includes code from the [python-mnemonic](https://github.com/trezor/python-mnemonic?tab=MIT-1-ov-file), which is licensed under the MIT License.
+
+```
+MIT License
+
+Copyright (c) 2013-2016 Pavol Rusnak
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+```
+
+You can find the full MIT License in the [LICENSE](https://github.com/trezor/python-mnemonic/blob/master/LICENSE) file.
+
+---
+
 ## You're All Set!
 
 Once you've opened the desired notebook, you're ready to start the exercises. Follow the instructions in the notebook and enjoy your hands-on learning experience!
